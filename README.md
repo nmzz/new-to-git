@@ -1,4 +1,4 @@
 new-to-git
 ==========
 
-Repository for 
+Repository for beginning with git and Github
